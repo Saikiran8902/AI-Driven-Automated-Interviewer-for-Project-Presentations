@@ -1,0 +1,8 @@
+mss 
+pytesseract 
+pillow 
+faster-whisper 
+pyttsx3 
+pyaudio 
+numpy 
+soundfile
